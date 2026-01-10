@@ -81,6 +81,6 @@ Passionate about learning Artificial Intelligence, Data Science, and Web Develop
 
 ## 🏆 GitHub Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mayuripa2028&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Mayuripa2028&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 

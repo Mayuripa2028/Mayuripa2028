@@ -79,35 +79,6 @@ Passionate about learning Artificial Intelligence, Data Science, and Web Develop
   </a>
 </p>
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mayuripa2028&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
-
----
-
-## 🔥 Contribution Streak
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mayuripa2028&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
-
----
-
-## 📈 Contribution Activity Graph
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mayuripa2028&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
-
----
-
-## ⭐ Featured Projects
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mayuripa2028&repo=Carbon-Credit-Verifier" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mayuripa2028&repo=ASEP_2" />
-</p>
-
----
-
 ## 🏆 GitHub Achievements
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Mayuripa2028&label=Profile%20views&color=0e75b6&style=flat" />

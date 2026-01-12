@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+<img src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/code.gif" width="400"/>
 </p>
 
 <h2 align="center">Hi, I'm Mayuri Pardeshi</h2>

@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://media.giphy.com/media/j0HjChGV0J44K/giphy.gif" width="400"/>
+<img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="400"/>
 </p>
 
 <h2 align="center">Hi, I'm Mayuri Pardeshi</h2>
